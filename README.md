@@ -509,4 +509,4 @@ For additional resources, please refer to these GitHub repositories and NASA sou
 
 The top row from left to right is: **Ryan Ahn**, **Avery Delinger III**, **Chawin Mingsuwan**
 
-The bottom row from left to right is: **Simon An**, **Rusell Thomas**, **William Cromer**,**Salvador Ayala**
+The bottom row from left to right is: **Simon An**, **Russell Thomas**, **William Cromer**,**Salvador Ayala**
